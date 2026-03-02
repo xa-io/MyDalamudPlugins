@@ -2,11 +2,9 @@
   {
     "Author": "XA",
     "Name": "XA Database",
-    "InternalName": "XADatabase",
     "Punchline": "Parser of all databases.",
-    "Description": "Collects character data (inventories, currencies, job levels, retainers, FC info) and stores it in a local SQLite database. Supports cross-character search, auto-collection, and CSV/JSON export.",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
+    "Description": "Parser of all databases.",
+    "Changelog": "v0.0.0.18 release of XA-Database",
     "Tags": [
       "xa",
       "data",
@@ -15,24 +13,25 @@
       "database",
       "utility"
     ],
-    "RepoUrl": "https://github.com/xa-io/XA-Database",
-    "AssemblyVersion": "0.0.0.18",
-    "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/xa-io/XA-Database/releases/latest/download/latest.zip",
     "IsHide": false,
+    "InternalName": "XADatabase",
+    "AssemblyVersion": "0.0.0.18",
     "IsTestingExclusive": false,
-    "LoadPriority": 0
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 6,
+    "LastUpdate": 1772410338,
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.18/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.18/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
     "Author": "XA",
     "Name": "XA Slave",
-    "InternalName": "XASlave",
     "Punchline": "Don't manual.",
-    "Description": "Automates login tasks, UI window navigation, and scheduled data collection. Works alongside XA Database to collect data hands-free via IPC.",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
+    "Description": "Don't manual.",
+    "Changelog": "v0.0.0.3 release of XA-Slave",
     "Tags": [
       "xa",
       "automation",
@@ -40,14 +39,17 @@
       "ipc",
       "utility"
     ],
-    "RepoUrl": "https://github.com/xa-io/XA-Slave",
-    "AssemblyVersion": "0.0.0.3",
-    "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/xa-io/XA-Slave/releases/latest/download/latest.zip",
     "IsHide": false,
+    "InternalName": "XASlave",
+    "AssemblyVersion": "0.0.0.3",
     "IsTestingExclusive": false,
-    "LoadPriority": 0
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 7,
+    "LastUpdate": 1772410340,
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.3/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   }
 ]
