@@ -26,7 +26,7 @@
     "LastUpdate": 1772410338,
     "Changelog": "v0.0.0.18 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 75,
+    "DownloadCount": 79,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -55,7 +55,7 @@
     "LastUpdate": 1772410340,
     "Changelog": "v0.0.0.3 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 51,
+    "DownloadCount": 54,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   }
 ]
