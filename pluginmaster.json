@@ -3,7 +3,7 @@
     "Author": "XA",
     "Name": "XA Database",
     "InternalName": "XADatabase",
-    "AssemblyVersion": "0.0.0.18",
+    "AssemblyVersion": "0.0.0.20",
     "Description": "Parser of all databases.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,19 +21,19 @@
     "LoadPriority": 0,
     "Punchline": "Parser of all databases.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.18/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.18/latest.zip",
-    "LastUpdate": 1772410338,
-    "Changelog": "v0.0.0.18 release of XA-Database",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.20/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.20/latest.zip",
+    "LastUpdate": 1772661926,
+    "Changelog": "v0.0.0.20 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 89,
+    "DownloadCount": 90,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
     "Author": "XA",
     "Name": "XA Slave",
     "InternalName": "XASlave",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.6",
     "Description": "Don't manual.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -50,12 +50,12 @@
     "LoadPriority": 0,
     "Punchline": "Don't manual.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.3/latest.zip",
-    "LastUpdate": 1772410340,
-    "Changelog": "v0.0.0.3 release of XA-Slave",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.6/latest.zip",
+    "LastUpdate": 1772662001,
+    "Changelog": "v0.0.0.6 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 64,
+    "DownloadCount": 65,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   }
 ]
