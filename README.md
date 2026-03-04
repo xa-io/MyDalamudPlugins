@@ -1,7 +1,7 @@
 # XA Plugins
 A collection of Dalamud plugins for Final Fantasy XIV focused on multi-character data tracking and task automation.
 
-## XA Database
+## [XA Database](https://github.com/xa-io/XA-Database)
 Track and browse data across all of your characters without needing to log into each one.
 - Levels, Gil, currencies, and FC info for every character at a glance.
 - Cross-character inventory and retainer search with item stacking.
@@ -10,7 +10,7 @@ Track and browse data across all of your characters without needing to log into 
 - Housing and Free Company details including squadron and voyages.
 - Offline character browser — select any character from the database at any time.
 
-## XA Slave
+## [XA Slave](https://github.com/xa-io/XA-Slave)
 Automate repetitive multi-character workflows so you don't have to do them manually.
 - Monthly Relogger — cycle through characters with AutoRetainer integration, sorted by Region/DC/World.
 - City Chat Flooder — travel through worlds and cities sending chat announcements with looping.
