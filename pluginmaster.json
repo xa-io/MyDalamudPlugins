@@ -33,7 +33,7 @@
     "Author": "XA",
     "Name": "XA Slave",
     "InternalName": "XASlave",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "Description": "Don't manual.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -50,10 +50,10 @@
     "LoadPriority": 0,
     "Punchline": "Don't manual.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.8/latest.zip",
-    "LastUpdate": 1772975895,
-    "Changelog": "v0.0.0.8 release of XA-Slave",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.9/latest.zip",
+    "LastUpdate": 1772976176,
+    "Changelog": "v0.0.0.9 release of XA-Slave",
     "IsTestingExclusive": false,
     "DownloadCount": 87,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
