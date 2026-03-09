@@ -32,7 +32,16 @@ https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.jso
 You should now have XA plugins available in your plugin installer. <br>
 Open the plugin installer by typing `/xlplugins` in game chat, go to the "Available Plugins" tab and search for **XA Database** or **XA Slave**.
 
+### Other tools
+
+- [Auto-AutoRetainer](https://github.com/xa-io/ffxiv-tools/tree/main/Auto-AutoRetainer) - Automated submarine and retainer farming helper that launches XIVLauncher when accounts need attention, handles 2FA, recovers from crashes, and closes clients when idle.
+- [AutoRetainer Dashboard](https://github.com/xa-io/ffxiv-tools/tree/main/AutoRetainer-Dashboard) - Self-hosted web dashboard for AutoRetainer, XA Database, and Lifestream data with character overviews, submarine tracking, gil totals, FC tools, and charts.
+- [Update Keys](https://github.com/xa-io/ffxiv-tools/blob/main/update_dev_beta_keys.py) - Easy way to update Dalamud keys on patch days. Live key updates are also posted in the Discord server.
+- [Auto 2FA Launcher](https://github.com/xa-io/ffxiv-tools/tree/main/Auto-2FA-Launcher) - Standalone XIVLauncher helper for automatic OTP entry so you can launch faster without running a larger automation stack.
+- [SND Scripts Repo](https://github.com/xa-io/ffxiv-tools/tree/main/snd) - My SND scripts repository for additional scripts and related automation helpers.
+
 ## Support
+
 - Discord server: <https://discord.gg/g2NmYxPQCa>
 - Open an issue on the relevant GitHub repository for bugs or feature requests.
 - [XA Database Issues](https://github.com/xa-io/XA-Database/issues) | [XA Slave Issues](https://github.com/xa-io/XA-Slave/issues)
