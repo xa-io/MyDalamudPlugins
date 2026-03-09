@@ -1,6 +1,19 @@
 # XA Plugins
 A collection of Dalamud plugins for Final Fantasy XIV focused on multi-character data tracking and task automation.
 
+## Installation
+1. Install [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) and enable Dalamud in its settings. You must run the game through FFXIVQuickLauncher for plugins to work.
+2. Open Dalamud settings by typing `/xlsettings` in game chat.
+3. Go to the "Experimental" tab.
+4. Find the "Custom Plugin Repositories" section and paste the following URL into the text input field: 
+```
+https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json
+```
+5. Click the "+" button, then "Save and Close".
+
+You should now have XA plugins available in your plugin installer. <br>
+Open the plugin installer by typing `/xlplugins` in game chat, go to the "Available Plugins" tab and search for **XA Database** or **XA Slave**.
+
 ## [XA Database](https://github.com/xa-io/XA-Database)
 Track and browse data across all of your characters without needing to log into each one.
 - Levels, Gil, currencies, and FC info for every character at a glance.
@@ -18,19 +31,6 @@ Automate repetitive multi-character workflows so you don't have to do them manua
 - Return Alts To Homeworlds — send characters back to their home worlds automatically.
 - External task loading — drop custom task DLLs into the tasks folder for additional automation.
 - IPC support — other plugins can check status and trigger tasks via `XASlave.IsBusy` and `XASlave.RunTask`.
-
-## Installation
-1. Install [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) and enable Dalamud in its settings. You must run the game through FFXIVQuickLauncher for plugins to work.
-2. Open Dalamud settings by typing `/xlsettings` in game chat.
-3. Go to the "Experimental" tab.
-4. Find the "Custom Plugin Repositories" section and paste the following URL into the text input field: 
-```
-https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json
-```
-5. Click the "+" button, then "Save and Close".
-
-You should now have XA plugins available in your plugin installer. <br>
-Open the plugin installer by typing `/xlplugins` in game chat, go to the "Available Plugins" tab and search for **XA Database** or **XA Slave**.
 
 ### Other tools
 
