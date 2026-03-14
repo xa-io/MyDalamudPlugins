@@ -80,7 +80,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/master/XAHudNavigator/images/icon.png",
     "Punchline": "Finding stuff is hard.",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://github.com/xa-io/XA-HUD-Navigator/releases/download/v0.0.0.2/latest.zip",
