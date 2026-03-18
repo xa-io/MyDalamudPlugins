@@ -26,7 +26,7 @@
     "LastUpdate": 1773504194,
     "Changelog": "v0.0.0.22 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 232,
+    "DownloadCount": 233,
     "RepoUrl": "https://github.com/xa-io/XA-Database",
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
@@ -34,7 +34,7 @@
     "Author": "XA",
     "Name": "XA Slave",
     "InternalName": "XASlave",
-    "AssemblyVersion": "0.0.0.13",
+    "AssemblyVersion": "0.0.0.14",
     "Description": "Don't manual.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -52,12 +52,12 @@
     "LoadPriority": 0,
     "Punchline": "Don't manual.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.13/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.13/latest.zip",
-    "LastUpdate": 1773785152,
-    "Changelog": "v0.0.0.13 release of XA-Slave",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.14/latest.zip",
+    "LastUpdate": 1773861202,
+    "Changelog": "v0.0.0.14 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 213,
+    "DownloadCount": 215,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -90,6 +90,6 @@
     "LastUpdate": 1773527559,
     "Changelog": "v0.0.0.2 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 33
+    "DownloadCount": 34
   }
 ]
