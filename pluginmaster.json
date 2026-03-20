@@ -1,6 +1,37 @@
 [
   {
     "Author": "XA",
+    "Name": "XA Database",
+    "InternalName": "XADatabase",
+    "AssemblyVersion": "0.0.0.24",
+    "Description": "Parser of all databases.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xa-io/XA-Database",
+    "Tags": [
+      "xa",
+      "data",
+      "inventory",
+      "gil",
+      "database",
+      "utility"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Parser of all databases.",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.24/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.24/latest.zip",
+    "LastUpdate": 1774028096,
+    "Changelog": "v0.0.0.24 release of XA-Database",
+    "IsTestingExclusive": false,
+    "DownloadCount": 255,
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
+  },
+  {
+    "Author": "XA",
     "Name": "XA Slave",
     "InternalName": "XASlave",
     "AssemblyVersion": "0.0.0.14",
@@ -26,7 +57,7 @@
     "LastUpdate": 1773861202,
     "Changelog": "v0.0.0.14 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 236,
+    "DownloadCount": 237,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -59,6 +90,6 @@
     "LastUpdate": 1773527559,
     "Changelog": "v0.0.0.2 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 46
+    "DownloadCount": 47
   }
 ]
