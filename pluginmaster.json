@@ -27,7 +27,7 @@
     "LastUpdate": 1774106966,
     "Changelog": "v0.0.0.25 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 593,
+    "DownloadCount": 596,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -57,7 +57,7 @@
     "LastUpdate": 1774109751,
     "Changelog": "v0.0.0.15 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 565,
+    "DownloadCount": 568,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -90,6 +90,6 @@
     "LastUpdate": 1774635138,
     "Changelog": "v0.0.0.3 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 358
+    "DownloadCount": 361
   }
 ]
