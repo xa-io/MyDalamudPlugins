@@ -1,12 +1,22 @@
 # XA Plugins
 A collection of Dalamud plugins for Final Fantasy XIV focused on multi-character data tracking and task automation.
 
+- View all our utilities & plugins here: https://aethertek.io/
+
 ## Installation
 1. Install [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) and enable Dalamud in its settings. You must run the game through FFXIVQuickLauncher for plugins to work.
 2. Open Dalamud settings by typing `/xlsettings` in game chat.
 3. Go to the "Experimental" tab.
 4. Find the "Custom Plugin Repositories" section and paste the following URL into the text input field:
 
+ - USE ONLY ONE REPO
+
+ - Aethertek's main Plugin Repo that houses all Aethertek plugins
+   ```text
+   https://aethertek.io/x.json
+   ```
+
+ - This will be a fallback anyone can use to get XA plugins
    ```text
    https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json
    ```
