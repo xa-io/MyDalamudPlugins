@@ -3,7 +3,7 @@
     "Author": "XA",
     "Name": "XA Database",
     "InternalName": "XADatabase",
-    "AssemblyVersion": "0.0.0.30",
+    "AssemblyVersion": "0.0.0.31",
     "Description": "Parser of all databases.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xa-io/XA-Database",
@@ -15,19 +15,19 @@
       "database",
       "utility"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Parser of all databases.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.30/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.30/latest.zip",
-    "LastUpdate": 1776521788,
-    "Changelog": "v0.0.0.30 release of XA-Database",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.31/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.31/latest.zip",
+    "LastUpdate": 1777486923,
+    "Changelog": "v0.0.0.31 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 1358,
+    "DownloadCount": 1368,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -57,7 +57,7 @@
     "LastUpdate": 1777062576,
     "Changelog": "v0.0.0.26 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 1386,
+    "DownloadCount": 1415,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -90,6 +90,6 @@
     "LastUpdate": 1774635138,
     "Changelog": "v0.0.0.3 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1040
+    "DownloadCount": 1043
   }
 ]
