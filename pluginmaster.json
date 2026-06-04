@@ -27,14 +27,14 @@
     "LastUpdate": 1780589735,
     "Changelog": "v0.0.0.37 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 1626,
+    "DownloadCount": 1634,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
     "Author": "XA",
     "Name": "XA Slave",
     "InternalName": "XASlave",
-    "AssemblyVersion": "0.0.0.38",
+    "AssemblyVersion": "0.0.0.39",
     "Description": "Don't manual.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://aethertek.io/",
@@ -52,12 +52,12 @@
     "LoadPriority": 0,
     "Punchline": "Don't manual.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.38/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.38/latest.zip",
-    "LastUpdate": 1780590596,
-    "Changelog": "v0.0.0.38 release of XA-Slave",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.39/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Slave/releases/download/v0.0.0.39/latest.zip",
+    "LastUpdate": 1780596466,
+    "Changelog": "v0.0.0.39 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 2002,
+    "DownloadCount": 2012,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -90,6 +90,6 @@
     "LastUpdate": 1780590504,
     "Changelog": "v0.0.0.6 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1108
+    "DownloadCount": 1111
   }
 ]
