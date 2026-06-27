@@ -64,7 +64,7 @@
     "Author": "XA",
     "Name": "XA HUD Navigator",
     "InternalName": "XAHudNavigator",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "Description": "Finding stuff is hard.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
@@ -85,10 +85,10 @@
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/master/XAHudNavigator/images/icon.png",
     "Punchline": "Finding stuff is hard.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-HUD-Navigator/releases/download/v0.0.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-HUD-Navigator/releases/download/v0.0.0.6/latest.zip",
-    "LastUpdate": 1780590504,
-    "Changelog": "v0.0.0.6 release of XA-HUD-Navigator",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-HUD-Navigator/releases/download/v0.0.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-HUD-Navigator/releases/download/v0.0.0.7/latest.zip",
+    "LastUpdate": 1782583657,
+    "Changelog": "v0.0.0.7 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
     "DownloadCount": 1142
   }
