@@ -1,0 +1,30 @@
+# Build output
+bin/
+obj/
+*.sln
+*.txt
+*.example
+config.json
+XARepo*/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.cache
+
+# Backups (local development history)
+backups/
+
+# Python scripts (internal tooling)
+*.py
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
