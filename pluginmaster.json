@@ -1,5 +1,28 @@
 [
   {
+    "Author": "Aethertek",
+    "Name": "Aethertek Plugin Manager",
+    "InternalName": "AethertekPluginManager",
+    "AssemblyVersion": "0.0.0.1",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "Update manually installed plugins from trusted download links.",
+    "Description": "Select an existing development plugin, copy its trusted download link, and update it with a local backup. Includes an advanced update option. Open with /apm.",
+    "RepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
+    "AcceptsFeedback": false,
+    "Tags": [
+      "plugins",
+      "manager"
+    ],
+    "DownloadLinkInstall": "https://github.com/xa-io/Aethertek-Plugin-Manager/releases/download/v0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/Aethertek-Plugin-Manager/releases/download/v0.0.0.1/latest.zip",
+    "LastUpdate": 1789168989,
+    "Changelog": "Aethertek Plugin Manager for Dalamud.",
+    "IsTestingExclusive": false,
+    "DownloadCount": 1,
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/Aethertek-Plugin-Manager/main/AethertekPluginManager/images/icon.png"
+  },
+  {
     "Author": "XA",
     "Name": "XA Database",
     "InternalName": "XADatabase",
@@ -27,7 +50,7 @@
     "LastUpdate": 1788904288,
     "Changelog": "v0.0.0.41 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 2416,
+    "DownloadCount": 2422,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -53,7 +76,7 @@
     "LastUpdate": 1789161126,
     "Changelog": "v0.0.0.45 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 3228,
+    "DownloadCount": 3267,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -86,6 +109,6 @@
     "LastUpdate": 1788911397,
     "Changelog": "v0.0.0.9 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1350
+    "DownloadCount": 1351
   }
 ]
