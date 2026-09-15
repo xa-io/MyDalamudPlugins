@@ -19,7 +19,8 @@
     "LastUpdate": 1789437363,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 0
+    "DownloadCount": 2,
+    "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png"
   },
   {
     "Author": "Aethertek",
