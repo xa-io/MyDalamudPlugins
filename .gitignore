@@ -1,6 +1,8 @@
 # Build output
 bin/
 obj/
+docs/
+tests/
 *.sln
 *.txt
 *.example
