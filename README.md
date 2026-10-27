@@ -1,7 +1,5 @@
 # XA Plugins
 
-Aethertek's Dalamud plugins for FINAL FANTASY XIV: character data, item search, multi-character automation, gameplay utilities, and UI inspection. Companion applications provide account management, dashboards, and launcher tools.
-
 [All plugins and tools](https://aethertek.io/) · [Documentation](https://wiki.aethertek.io/) · [Discord](https://discord.gg/g2NmYxPQCa) · [FFXIV server status](https://online.aethertek.io/)
 
 ## Installation
@@ -97,28 +95,3 @@ XA Sub Manager replaces Auto-AutoRetainer, and XA Dashboard replaces AutoRetaine
 - Discord server: <https://discord.gg/g2NmYxPQCa>
 - Open an issue on the relevant GitHub repository for bugs or feature requests.
 - [XA Database Issues](https://github.com/xa-io/XA-Database/issues) | [XA Slave Issues](https://github.com/xa-io/XA-Slave/issues) | [XA HUD Navigator Issues](https://github.com/xa-io/XA-HUD-Navigator/issues)
-
-<details>
-<summary>Repository maintenance and statistics</summary>
-
-### Aethertek Plugin Manager metadata
-
-The repository updater reads APM's manifest from its protected release ZIP and resolves its icon from the public `AethertekPluginManager/images/icon.png` path on the main branch. Hosted Aethertek download totals remain preferred, with GitHub release-asset totals as the fallback. The Discord statistics entry uses the APM emoji.
-
-Download-count offsets match the Aethertek website updater across all 25 repository entries. Offsets apply only to GitHub fallback totals; hosted totals already include them.
-
-### Public Dhog host statistics
-
-Repository title constants and Discord headings use `XA` and `Dhog`; older source-feed labels remain compatible. Repository statistics include the public `McVaxius/mom-public`, `McVaxius/dhognav-public`, and `McVaxius/dduck-public` release hosts with their dedicated Discord emojis. Hosted Aethertek totals remain authoritative. When hosted statistics are disabled, the Dhog section supplements its legacy feed with all release-asset download totals from these three repositories; existing entries are replaced once and retained if a repository is unavailable. Counting uses release metadata without downloading release ZIPs. Public installation does not grant access to private functionality.
-
-Deep Ducking uses internal name `DDuck` and the public repository feed on `master`, with Discord emoji `<:dduck:1552408146251743324>`. Its public host does not grant private feature access.
-
-### Community plugin statistics
-
-Questionable (`WigglyQuest`) and Influx appear under Wiggly, followed by Questionable Companion (`QSTCompanion`) under Matsuuzo, after the Dhog statistics section. Each plugin uses its supplied Discord emoji. Hosted Aethertek totals are authoritative and are not offset or recounted.
-
-When hosted statistics are disabled, the maintained `WigglyCorp/DalamudPlugins/main/pluginmaster.json` feed supplies exact plugin identities and metadata. Statistics count all release attachments from the current `WigglyMuffin/Questionable`, `WigglyMuffin/Influx` and `MacaronDream/QSTCompanion` repositories without downloading ZIPs. An unavailable release-count request retains that plugin's upstream feed total; a missing or ambiguous identity is skipped with a diagnostic. If the upstream feed is unavailable, community statistics are omitted for that cycle. Historical offsets for these repositories are zero.
-
-Community entries are excluded from the XA-only publication targets and do not appear under the Dhog author group.
-
-</details>
