@@ -109,14 +109,14 @@
     "LastUpdate": 1794429535,
     "Changelog": "v0.0.0.12 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1633
+    "DownloadCount": 1634
   },
   {
     "Author": "XA",
     "Name": "XA Zod",
     "InternalName": "XAZod",
     "RepoUrl": "https://github.com/xa-io/XA-Zod",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.8",
     "Punchline": "Aethertek's private early beta testing environment.",
     "Description": "XA Zod is Aethertek's private early beta testing environment for experimental features. Participation is arranged through the Aethertek community. Downloading the plugin does not grant private access, and features may remain private indefinitely.",
     "ApplicableVersion": "any",
@@ -126,9 +126,9 @@
       "XA",
       "beta"
     ],
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Zod/releases/download/v0.0.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Zod/releases/download/v0.0.0.6/latest.zip",
-    "LastUpdate": 1791345841,
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Zod/releases/download/v0.0.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Zod/releases/download/v0.0.0.8/latest.zip",
+    "LastUpdate": 1794430500,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
     "DownloadCount": 192,
