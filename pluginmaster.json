@@ -19,7 +19,7 @@
     "LastUpdate": 1794358196,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 393,
+    "DownloadCount": 398,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/Aethertek-Plugin-Manager/main/AethertekPluginManager/images/icon.png"
   },
   {
@@ -50,7 +50,7 @@
     "LastUpdate": 1794429777,
     "Changelog": "v0.0.0.50 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 4658,
+    "DownloadCount": 4689,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -76,7 +76,7 @@
     "LastUpdate": 1794600909,
     "Changelog": "v0.0.0.66 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 8515,
+    "DownloadCount": 8724,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -109,7 +109,7 @@
     "LastUpdate": 1794429535,
     "Changelog": "v0.0.0.12 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1696
+    "DownloadCount": 1705
   },
   {
     "Author": "XA",
@@ -131,7 +131,7 @@
     "LastUpdate": 1794430500,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 220,
+    "DownloadCount": 223,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png"
   }
 ]
