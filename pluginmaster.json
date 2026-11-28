@@ -19,14 +19,14 @@
     "LastUpdate": 1794358196,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 461,
+    "DownloadCount": 462,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/Aethertek-Plugin-Manager/main/AethertekPluginManager/images/icon.png"
   },
   {
     "Author": "XA",
     "Name": "XA Database",
     "InternalName": "XADatabase",
-    "AssemblyVersion": "0.0.0.50",
+    "AssemblyVersion": "0.0.0.51",
     "Description": "Parser of all databases.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xa-io/XA-Database",
@@ -45,12 +45,12 @@
     "LoadPriority": 0,
     "Punchline": "Parser of all databases.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.50/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.50/latest.zip",
-    "LastUpdate": 1794429777,
-    "Changelog": "v0.0.0.50 release of XA-Database",
+    "DownloadLinkInstall": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.51/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xa-io/XA-Database/releases/download/v0.0.0.51/latest.zip",
+    "LastUpdate": 1795835563,
+    "Changelog": "v0.0.0.51 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 4845,
+    "DownloadCount": 4846,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png"
   },
   {
@@ -76,7 +76,7 @@
     "LastUpdate": 1795834766,
     "Changelog": "v0.0.0.71 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 9705,
+    "DownloadCount": 9711,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png"
   },
   {
@@ -109,7 +109,7 @@
     "LastUpdate": 1794429535,
     "Changelog": "v0.0.0.12 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1761
+    "DownloadCount": 1763
   },
   {
     "Author": "XA",
@@ -131,7 +131,7 @@
     "LastUpdate": 1795809279,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 268,
+    "DownloadCount": 269,
     "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png"
   }
 ]
